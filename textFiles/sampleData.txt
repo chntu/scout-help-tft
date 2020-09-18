@@ -1,0 +1,267 @@
+{
+"activePlayer": {
+"abilities": {
+"E": {
+"abilityLevel": 0,
+"displayName": "",
+"id": "BaseSpell",
+"rawDescription": "",
+"rawDisplayName": ""
+},
+"Passive": {
+"displayName": "Passive",
+"rawDescription": "Desc",
+"rawDisplayName": "Passive"
+},
+"Q": {
+"abilityLevel": 0,
+"displayName": "",
+"id": "BaseSpell",
+"rawDescription": "",
+"rawDisplayName": ""
+},
+"R": {
+"abilityLevel": 0,
+"displayName": "",
+"id": "BaseSpell",
+"rawDescription": "",
+"rawDisplayName": ""
+},
+"W": {
+"abilityLevel": 1,
+"displayName": "",
+"id": "TFT_Input_MoveUnit",
+"rawDescription": "",
+"rawDisplayName": ""
+}
+},
+"championStats": {
+"abilityPower": 0,
+"armor": 6,
+"armorPenetrationFlat": 0,
+"armorPenetrationPercent": 1,
+"attackDamage": 8,
+"attackRange": 100,
+"attackSpeed": 2.5,
+"bonusArmorPenetrationPercent": 1,
+"bonusMagicPenetrationPercent": 1,
+"cooldownReduction": 0,
+"critChance": 0,
+"critDamage": 150,
+"currentHealth": 100,
+"healthRegenRate": 0,
+"lifeSteal": 0,
+"magicLethality": 0,
+"magicPenetrationFlat": 0,
+"magicPenetrationPercent": 1,
+"magicResist": 0,
+"maxHealth": 100,
+"moveSpeed": 315,
+"physicalLethality": 0,
+"resourceMax": 0,
+"resourceRegenRate": 0,
+"resourceType": "NONE",
+"resourceValue": 0,
+"spellVamp": 0,
+"tenacity": 0
+},
+"currentGold": 500,
+"fullRunes": {},
+"level": 1,
+"summonerName": "PRobertBS"
+},
+"allPlayers": [
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "PRobertBS",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "YOUBICH",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "XxPredator09xX",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "mystic glow",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "skywalker1201",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "Neeko QAQ",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "SaVaGeRaIn",
+"summonerSpells": {},
+"team": "ORDER"
+},
+{
+"championName": "TFTChampion",
+"isBot": false,
+"isDead": false,
+"items": [],
+"level": 1,
+"position": "NONE",
+"rawChampionName": "game_character_displayname_TFTChampion",
+"respawnTimer": 0,
+"runes": null,
+"scores": {
+"assists": 0,
+"creepScore": 0,
+"deaths": 0,
+"kills": 0,
+"wardScore": 0
+},
+"skinID": 0,
+"summonerName": "Anyeyiyang1",
+"summonerSpells": {},
+"team": "ORDER"
+}
+],
+"events": {
+"Events": [
+{
+"EventID": 0,
+"EventName": "GameStart",
+"EventTime": 0.05770590156316757
+}
+]
+},
+"gameData": {
+"gameMode": "TFT",
+"gameTime": 12.018613815307617,
+"mapName": "Map22",
+"mapNumber": 22,
+"mapTerrain": "Default"
+}
+}
