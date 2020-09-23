@@ -50,6 +50,7 @@ class _ScoutState extends State<Scout> {
   Widget build(BuildContext context) {
     double width = MediaQuery.of(context).size.width / 3.5;
     return MaterialApp(
+      debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
           backgroundColor: kAppbarColor,
@@ -61,11 +62,6 @@ class _ScoutState extends State<Scout> {
         body: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            Text('Match making history'),
-
-            SizedBox(
-              height: kPaddingBetweenElem * 2,
-            ),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [

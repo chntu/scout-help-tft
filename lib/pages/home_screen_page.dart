@@ -145,17 +145,17 @@ class _HomeScreenState extends State<HomeScreen> {
                     width: kPaddingBetweenElem,
                   ),
                   // This button send user to all players match history page.
-                  Expanded(
-                    child: FlatButton(
-                      padding: EdgeInsets.only(top: 10.0, bottom: 10.0),
-                      color: kAppbarColor,
-                      child: Text(
-                        'FaceCheck',
-                        style: kButtonTextStyle,
-                      ),
-                      onPressed: () {},
-                    ),
-                  ),
+                  // Expanded(
+                  //   child: FlatButton(
+                  //     padding: EdgeInsets.only(top: 10.0, bottom: 10.0),
+                  //     color: kAppbarColor,
+                  //     child: Text(
+                  //       'FaceCheck',
+                  //       style: kButtonTextStyle,
+                  //     ),
+                  //     onPressed: () {},
+                  //   ),
+                  // ),
                 ],
               ),
             ],
